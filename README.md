@@ -1,3 +1,3 @@
 # hello-world
 Following the beginner guide
-A bit about myself
+A byte about myself
